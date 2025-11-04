@@ -1,7 +1,15 @@
-# 🤖 Baka-Chan V2 - Facebook Messenger Bot
-
 <h1 align="center">Baka-Chan V2 - Powerful Messenger Bot</h1>
 <p align="center"><strong>Bot made by Gtajisan aka Farhan ✨</strong></p>
+<p align="center">
+  <a href="https://nodejs.org/dist/v16.20.0">
+    <img src="https://img.shields.io/badge/Nodejs%20Support-16.x-brightgreen.svg?style=flat-square" alt="Nodejs Support v16.x">
+  </a>
+  <img alt="size" src="https://img.shields.io/github/repo-size/frn-development/Baka-Chan-bot.svg?style=flat-square&label=size">
+  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=frn-development.Baka-Chan-bot">
+  <img alt="license" src="https://img.shields.io/badge/license-MIT-green?style=flat-square&color=brightgreen">
+</p>
+
+---
 
 
 ## Introduction
@@ -19,19 +27,6 @@
 ###### If you encounter any issues or difficulties, don't hesitate to reach out and ask for assistance here. Our team is here to help you with any problems you may face.
 
 - If you encounter any issues or have questions related to this project, please don't hesitate to reach out to us on messenger. we're here to assist you!
-
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Baka-Chan - Bot Chat Messenger</h1>
-
-<p align="center">
-  <a href="https://nodejs.org/dist/v16.20.0">
-    <img src="https://img.shields.io/badge/Nodejs%20Support-16.x-brightgreen.svg?style=flat-square" alt="Nodejs Support v16.x">
-  </a>
-  <img alt="size" src="https://img.shields.io/github/repo-size/frn-development/Baka-Chan-bot.svg?style=flat-square&label=size">
-  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=frn-development.Baka-Chan-bot">
-  <img alt="license" src="https://img.shields.io/badge/license-MIT-green?style=flat-square&color=brightgreen">
-</p>
-
----
 
 
 ## 📝 **Note**
